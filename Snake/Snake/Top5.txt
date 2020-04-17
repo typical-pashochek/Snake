@@ -1,0 +1,5 @@
+game_56 320
+Pashka 250
+reo 130
+BigPix 120
+7887 110

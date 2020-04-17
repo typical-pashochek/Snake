@@ -1,0 +1,14 @@
+﻿  snake_func.c
+D:\Projects_in_c\Snake\Snake\snake_func.c(6,9): warning C4013: gotoxy: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects_in_c\Snake\Snake\snake_func.c(259,12): warning C4013: hidecursor: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects_in_c\Snake\Snake\snake_func.c(260,16): warning C4013: setconsolesize: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects_in_c\Snake\Snake\snake_func.c(270,8): warning C4013: clrscr: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects_in_c\Snake\Snake\snake_func.c(330,15): warning C4013: TextIntoMass: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects_in_c\Snake\Snake\snake_func.c(340,23): warning C4013: GetWord: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects_in_c\Snake\Snake\snake_func.c(341,35): warning C4047: =: "char *" отличается по уровням косвенного обращения от "int"
+D:\Projects_in_c\Snake\Snake\snake_func.c(342,23): warning C4013: GetDigit: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects_in_c\Snake\Snake\snake_func.c(346,21): warning C4013: Gets: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects_in_c\Snake\Snake\snake_func.c(340,1): warning C4047: инициализация: "char *" отличается по уровням косвенного обращения от "int"
+D:\Projects_in_c\Snake\Snake\snake_func.c(346,1): warning C4047: инициализация: "char *" отличается по уровням косвенного обращения от "int"
+D:\Projects_in_c\Snake\Snake\snake_func.c(372,1): warning C4047: инициализация: "char *" отличается по уровням косвенного обращения от "int"
+  Snake.vcxproj -> D:\Projects_in_c\Snake\Debug\Snake.exe
